@@ -1,2 +1,2 @@
 # Frequency-Stability-Property
-This repository is about random sequences
+This repository is about pseudorandom sequences
